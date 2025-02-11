@@ -443,6 +443,5 @@ buildNumber.properties
 # Eclipse Core
 
 # JDT-specific (Eclipse Java Development Tools)
-.classpath
 #Ignore lock files
 .~lock.*#
